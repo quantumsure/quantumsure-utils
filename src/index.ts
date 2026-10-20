@@ -6,7 +6,7 @@
  */
 
 export { randomBytes } from "./random";
-export { toBase64, fromBase64 } from "./encoding";
+export { toBase64, fromBase64, encode, decode } from "./encoding";
 export { computeMac } from "./mac";
 export {
   quantumResistantEncrypt,

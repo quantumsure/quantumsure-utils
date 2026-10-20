@@ -1,6 +1,6 @@
 {
   "name": "quantumsure-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shared quantum-resistant crypto utilities for QuantumSure (ML-KEM-1024, ChaCha20, key wrapping).",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
